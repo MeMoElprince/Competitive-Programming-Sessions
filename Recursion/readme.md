@@ -15,3 +15,8 @@
 - **[Basic](https://codeforces.com/group/n3sTiYtHxI/contest/348902)**
 - **[Advanced](https://codeforces.com/group/gA8A93jony/contest/269931)**
 
+> Suggested problems
+
+- **[G. Playing With Rocks](https://codeforces.com/group/9NtbQhygks/contest/400019/problem/G)**
+- **[E. Yet Another Circular Array!](https://codeforces.com/group/9NtbQhygks/contest/391502/problem/E)**
+- **[B. Equivalence](https://codeforces.com/group/9NtbQhygks/contest/389458/problem/B)**
