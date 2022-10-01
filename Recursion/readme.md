@@ -2,7 +2,7 @@
 
 > Session Video
 
-- **[session](url)**
+- **[Practice session](https://drive.google.com/file/d/1uJwvJuJwP1Yv9RJpB8mRgLIpskmtkJvg/view?usp=sharing)**
 
 > Other Videos 
 
